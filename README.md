@@ -16,7 +16,7 @@
 **Tech Stack:** Python, Django, Selenium, AWS RDS, GitHub Actions, CI/CD, Swagger  
 Engineered web applications, automated calculation systems, and UI testing frameworks while managing database migrations.
 
-### Software Engineer Intern | WANB EXPRESS
+### Software Engineer Intern | Wanb Express
 **Tech Stack:** Spring Boot, Flask, Prometheus, OpenAI API, MongoDB, PyTorch, Apache Spark, Resilience4j, Docker  
 Worked on microservice architecture, observability infrastructure, AI customer service, and neural networks for logistics optimization.
 
