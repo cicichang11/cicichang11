@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi~ I'm Chang(Cici) Chang </h1>
-<h3 align="center">Software Engineer | Data Engineer | USC Alum</h3>
+<h3 align="center">Software Engineer | Data Scientist | USC Alum</h3>
 
 Read about me below—or skip ahead and chat with my career alter ego here: ["Cici's Career Alter Ego"](https://huggingface.co/spaces/cicidevs/career_conversations) 👀💬
 
