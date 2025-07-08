@@ -1,6 +1,8 @@
 <h1 align="center"> 👋 Hi~ I'm Chang(Cici) Chang </h1>
 <h3 align="center">Software Engineer | Data Engineer | USC Alum</h3>
 
+Read about me below—or skip ahead and chat with my career alter ego here: ["Cici's Career Alter Ego"](https://huggingface.co/spaces/cicidevs/career_conversations) 👀💬
+
 ## 📚 Education
 - **M.S. in Computer Science - Applied Data Science** | University of Southern California | GPA 3.9/4.0 | 2022-2024
 - **B.S. in Industrial and Systems Engineering** | University of Southern California | GPA 3.85/4.0 | 2019-2023
